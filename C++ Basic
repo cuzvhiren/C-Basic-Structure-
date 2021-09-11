@@ -1,0 +1,30 @@
+/* CODES TO WRITE THE BASIC STRUCTURE OF C++ PROGRAM 
+AND VARIABLE INTEGER, FLOAT AND CHARACTER */
+
+
+
+#include<iostream>
+
+using namespace std;
+
+
+int main(){
+
+cout<<"\nLets Talk About Datatypes";
+    
+    int a = 7;
+    int b = 9;
+    
+    cout<<"\nValue of a is "<<a<<"\nValue of b is "<< b;
+
+    float c = 16.4566642562f;
+    char d = 'c';
+    
+    cout<<"\nThat Character "<<d;
+    
+    cout<<"\nThe Float Value Is "<<c;
+return 0;
+
+
+
+}
